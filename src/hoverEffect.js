@@ -89,7 +89,7 @@ const animation = () => {
       ripples.pop();
     }
   }
-  let animationFrame = window.requestAnimationFrame(animation);
+  window.requestAnimationFrame(animation);
 };
 
 animation()

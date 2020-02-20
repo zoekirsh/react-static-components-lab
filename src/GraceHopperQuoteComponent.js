@@ -6,12 +6,11 @@ export class GraceHopperQuoteComponent extends Component {
 			<div className="bar" id="einstein">
 				<i>
 					<p>
-						&quot;Life is like riding a bicycle. To keep your balance you must
-						keep moving&quot;
+						&quot;The most dangerous phrase in the language is, ‘We’ve always done it this way.’&quot;
 					</p>
 				</i>
 				<br />
-				&#9;-Einstein
+				&#9;-Admiral Grace Hopper
 			</div>
 		);
 	}
